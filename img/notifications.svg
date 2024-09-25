@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="25px" viewBox="0 0 27 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>notifications</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(-1299, -189)">
+            <g id="global-bar" transform="translate(414, 182)">
+                <g id="notifications" transform="translate(886, 7)">
+                    <path d="M18.00319,19.5023925 L0,19.5023925 C1.49143309,19.5023925 2.7004785,18.2933471 2.7004785,16.801914 L2.7004785,12.3011165 C2.70047855,8.821106 5.52158449,6.0000001 9.001595,6.0000001 C12.4816055,6.0000001 15.3027115,8.821106 15.3027115,12.3011165 L15.3027115,16.801914 C15.3027115,18.2933471 16.5117569,19.5023925 18.00319,19.5023925 L18.00319,19.5023925 Z M10.5588709,23.1030305 C10.2367959,23.6582528 9.64347048,24.0000001 9.001595,24.0000001 C8.35971952,24.0000001 7.76639412,23.6582528 7.44431907,23.1030305 L10.5588709,23.1030305 Z" id="bell" stroke="#B1B4CE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval" fill="#F98E73" cx="22.5" cy="3.5" r="3.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

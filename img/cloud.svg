@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="22px" viewBox="0 0 27 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cloud</title>
+    <defs>
+        <filter x="-2.8%" y="-0.6%" width="105.6%" height="101.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.298039216   0 0 0 0 0.321568627   0 0 0 0 0.737254902  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(-128, -966)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="left-sidebar" filter="url(#filter-1)" transform="translate(92, 186)">
+                <g id="content" transform="translate(40, 782)">
+                    <path d="M4.2775659,5.22982345 C4.29295505,2.50712806 6.33338433,0.246482384 8.98108109,0.0186743129 C11.6287778,-0.209133758 14.0085032,1.67120141 14.4667279,4.35314703 C17.0654057,4.45240294 19.0935299,6.69162345 18.9966701,9.35458605 C18.8998103,12.0175486 16.7146453,14.0958436 14.1159675,13.9965877 L4.2775659,13.9965877 C1.91513149,13.9965877 0,12.0340807 0,9.6132056 C0,7.19233049 1.91513149,5.22982345 4.2775659,5.22982345 Z" id="cloud"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
